@@ -14,7 +14,6 @@ from compas.utilities import geometric_key
 
 from compas_rhino.geometry import RhinoSurface
 
-
 class SubdMesh(Mesh):
 
     def __init__(self, *args, **kwargs):

@@ -93,6 +93,7 @@
             {"name": "RV2pattern_modify_edges",         "menu_text": "Edges Attributes"                           },
             {"name": "RV2pattern_move_vertices",        "menu_text": "Move Vertices"                              },
             {"name": "RV2pattern_delete",               "menu_text": "Delete Vertices"                            },
+            {"name": "RV2materialisation",               "menu_text": "Materialisation"                           },
 
             {"name": "RV2boundary_supports",            "menu_text": "Identify Supports",               "icon": 15},
             {"name": "RV2boundary_boundaries",          "menu_text": "Update Boundaries",               "icon": 17},

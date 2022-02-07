@@ -196,7 +196,7 @@
     </menu>
   </menus>
   <tool_bar_groups>
-    <tool_bar_group guid="269b8170-18d6-4052-b1ec-0e9a98718d02" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="7ffd85c9-8f5a-4a33-b06e-124477e95e73" active_tool_bar_group="6ee8ea7a-0fed-40f1-8ec4-e00ebc979e22" single_file="False" hide_single_tab="False" point_floating="-2147483648,0">
+    <tool_bar_group guid="269b8170-18d6-4052-b1ec-0e9a98718d02" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="7ffd85c9-8f5a-4a33-b06e-124477e95e73" active_tool_bar_group="6ee8ea7a-0fed-40f1-8ec4-e00ebc979e22" single_file="False" hide_single_tab="False" point_floating="-3,0">
       <text>
         <locale_1033>RV2</locale_1033>
       </text>
@@ -206,7 +206,7 @@
         </text>
         <tool_bar_id>f62334b6-2313-4ef8-b8f9-bbffc06c5e15</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="200" dock_bar="False" docking="True" horz="False" visible="False" floating="False" mru_float_style="4096" bar_id="59484" mru_width="32767" point_pos="-1,-1" float_point="-2147483648,0" rect_mru_dock_pos="0,0,58,168" dock_location_u="59420" dock_location="left" float_size="90,66" />
+      <dock_bar_info dpi_scale="200" dock_bar="False" docking="True" horz="False" visible="True" floating="False" mru_float_style="4096" bar_id="59485" mru_width="868" point_pos="0,0" float_point="-3,0" rect_mru_dock_pos="0,0,41,1547" dock_location_u="59420" dock_location="left" float_size="90,66" />
     </tool_bar_group>
   </tool_bar_groups>
   <tool_bars>
@@ -1285,7 +1285,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</bitmap>
       <bitmap_item guid="ba913592-b3f8-4c39-8e3c-95d43fcd2d50" index="36" />
       <bitmap_item guid="4648dd49-4644-45a2-ab43-0e8ca2857009" index="37" />
       <bitmap>iVBORw0KGgoAAAANSUhEUgAABMAAAAAgCAYAAAD0QQQHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
-AAALEAAACxABrSO9dQAAiypJREFUeF7tnQd4VEXXx1dqEiAJnRB6B1FQFGmCioAFBCxYwS4IYvfl
+AAALDAAACwwBP0AiyAAAiypJREFUeF7tnQd4VEXXx1dqEiAJnRB6B1FQFGmCioAFBCxYwS4IYvfl
 taDYUAFF6UiX3nsvoUmvIiBFekelBwhJ5ju/2TvL3c3dZJNswO/V8zz/ZHbmlHvnTj13Zq5LKRUw
 hG4QZBJkEWT1AXGk3eAk+y/+xb/4F//i7wnabX9w4g8EvnrsSA0v8OVPCb7yvkgvf0rwlfeFk8z1
 hO/12eHEHwh89djhxP9Phm/+2OHEHwh89djhxG+HL7+AsR3ILGCsZx8Dmt+kGT4veScb/+IqfPPL
